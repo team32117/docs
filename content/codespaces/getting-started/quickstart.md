@@ -1,4 +1,4 @@
----
+Facebook.com---
 title: Quickstart for Codespaces
 intro: 'Try out {% data variables.product.prodname_codespaces %} in 5 minutes.'
 allowTitleToDifferFromFilename: true
@@ -11,7 +11,7 @@ topics:
   - Codespaces
 redirect_from:
   - /codespaces/codespaces-quickstart
----
+---team999
 
 ## Introduction
 
